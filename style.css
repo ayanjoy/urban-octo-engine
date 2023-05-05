@@ -2,53 +2,75 @@ body{
     font-family: "Audiowide", sans-serif;
     margin: 0px;
 }
+section{
+    
+    padding-bottom: 110px ;
+}
 .top-banner{
 
          background-image: url("pictures/background\ \(2\).png");
-         background-repeat: none;
+        
 }
 .upper{
         margin-top: 200px;
-        padding-right: 50px;
-        
+        padding-right: 100px;
+       
         width: 35%;
         padding-left: 200px;
         float: left;
             
 }
 img{
+    
     length:500px;
     width: 500px;
-    padding-top: 0%;
+   
+    
+    
     
 }
-
-
 span{
     color:white ;
 }
-.about-me{
-    border: 1px solid cornsilk;
-    
-    width: 50%;
-    padding-left: 80px;
-    padding-right: 20px;
-    float:left;
-    
-}
-.lower-side{
-    border: 1px solid cornsilk;
-    box-shadow: 200px;
-    padding: 50px;
-    width: 30%;
-    padding-left: 1000px;
-    
-    
+.button{
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+   background-image: linear-gradient(white,gray);
+    padding: 5px 10px;
+    font-size: 15px;
 }
 
-.low-banner{
-    background-image: url("pictures/background\ \(1\).png");
-    background-repeat: none;
+.text-low{
+
+ 
+
+}
+.half-width{
+    width: 50%;
+  
+    float: left;
+    
     
 }
-.half{}
+.experience-area{
+    background-image: url("pictures/background\ \(1\).png");
+    background-repeat: none;
+    width: 50%;
+    padding: 80px;
+    border-right: 7px solid gray;
+    float: left;
+   
+}  
+.links{
+    float: ;
+}
+
+.buttons{
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+   background-image: linear-gradient(white,gray);
+    padding: 5px 10px;
+    font-size: 15px;
+}
