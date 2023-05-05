@@ -1,76 +1,56 @@
 body{
     font-family: "Audiowide", sans-serif;
-    margin: 0px;
+    margin: 0%;
 }
 section{
+    height: 600px;
+}
+.white-color-text{
+    color: aliceblue;
     
-    padding-bottom: 110px ;
-}
-.top-banner{
-
-         background-image: url("pictures/background\ \(2\).png");
-        
-}
-.upper{
-        margin-top: 200px;
-        padding-right: 100px;
-       
-        width: 35%;
-        padding-left: 200px;
-        float: left;
-            
-}
-img{
-    
-    length:500px;
-    width: 500px;
-   
-    
-    
-    
-}
-span{
-    color:white ;
-}
-.button{
-    text-decoration: none;
-    color: black;
-    border-radius: 10px;
-   background-image: linear-gradient(white,gray);
-    padding: 5px 10px;
-    font-size: 15px;
-}
-
-.text-low{
-
- 
 
 }
 .half-width{
-    width: 50%;
-  
+    width: 40%;
+    margin: 2%;
+    margin left: 2%;
     float: left;
-    
-    
 }
-.experience-area{
-    background-image: url("pictures/background\ \(1\).png");
-    background-repeat: none;
-    width: 50%;
-    padding: 80px;
-    border-right: 7px solid gray;
-    float: left;
+.half-width img{
+    width: 100%;
+    height: 500px;
+}
+.upper-text{
+    padding: 50px;
+    padding-top: 200px;
    
-}  
-.links{
-    float: ;
 }
-
+.upper-background{
+    background-image: url("pictures/background\ \(2\).png");
+}
+.last{
+  border-radius: 20px;
+    box-shadow:10px 1px 40px black;
+    padding-left: 40px;
+    height: 350px;
+    font-weight:lighter;
+}
+.last-banner{
+    background-image: url("pictures/background\ \(1\).png");
+  
+}
 .buttons{
+    box-shadow: 10px 1px 20px black;
     text-decoration: none;
     color: black;
     border-radius: 10px;
    background-image: linear-gradient(white,gray);
     padding: 5px 10px;
     font-size: 15px;
+}
+.change{
+    color: lightgray;
+}
+.changed{
+    color: darkslategray;
 }
